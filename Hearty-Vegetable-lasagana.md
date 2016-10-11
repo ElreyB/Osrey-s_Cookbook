@@ -3,3 +3,4 @@
 ###*Prep Time:* 25 minutes     ###*Ready in:* 1 Hour 40 minutes
 ###*Cook Time:* 1 Hour         ###*Serving:* 12
 
+-"A pound of fresh mushrooms along wit lost of bell peppers and onions gives full-bodied flavor to this veggie-packed lasagna. Layer with noodles and a creamy blend of ricotta and mozzarellla cheeses."
