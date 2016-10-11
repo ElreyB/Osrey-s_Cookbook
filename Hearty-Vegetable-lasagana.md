@@ -4,3 +4,8 @@
 ###*Cook Time:* 1 Hour         ###*Serving:* 12
 
 -"A pound of fresh mushrooms along wit lost of bell peppers and onions gives full-bodied flavor to this veggie-packed lasagna. Layer with noodles and a creamy blend of ricotta and mozzarellla cheeses."
+
+##*Ingredients*
+  *1(16 ounce) package lasagna noodles        *2 (26 ounce) jars of pasta sauce 
+  *1 pound fresh mushrooms, sliced            *1 teaspoon dried basil 
+  *3/4 cup chopped green bell pepper          *1 (15 ounce) container part-skim ricotta 
