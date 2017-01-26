@@ -1,6 +1,4 @@
-#**Hearty Vegetable Lasagna**
-
-![](http://images.media-allrecipes.com/userphotos/560x315/620560.jpg  "Lasagana")
+![Hearty Vegetable Lasagna](http://images.media-allrecipes.com/userphotos/560x315/620560.jpg)
 
 Ready in|Prep Time |Cook time|Serving
 ---|---|---|---
@@ -8,7 +6,7 @@ Ready in|Prep Time |Cook time|Serving
 
 -"A pound of fresh mushrooms along wit lost of bell peppers and onions gives full-bodied flavor to this veggie-packed lasagna. Layer with noodles and a creamy blend of ricotta and mozzarellla cheeses."
 
-##**Ingredients**
+##Ingredients
 | | |
 |---|---|
 1 (16 ounce) package lasagna noodles | 2 (26 ounce) jars pasta sauce
@@ -18,7 +16,7 @@ Ready in|Prep Time |Cook time|Serving
 3 cloves garlic, minced | 2 eggs
 2 tablespoons vegetable oil | 1/2 cup greated Parmesan cheese 
 
-##**Directions**
+##Directions
 1. Cook the lasagna noodles in a large pot of boiling water for 10 minutes, or until al dente. Rinse with cold water and drain.
 2. In a large saucepan, cook and stir mushrooms, green peppers, onion, and garlic in oil. Stir in pasta sauce and basil; bring to a boil. Reduce heat, and simmer 15 minutes.
 3. Mix together ricotta, 2 cups mozzarella cheesen and eggs.
